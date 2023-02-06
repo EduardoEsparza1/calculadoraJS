@@ -38,4 +38,5 @@ if(!$result) {
 }
 mysqli_close($connection);
 echo "Fuera" ;
+echo "Haciendo commits a lo we jjjsajsajs" ;
 ?>
