@@ -42,3 +42,6 @@ function calculate() {
     }
 }
 
+function rama5(){
+    alert("rama 5")
+}
