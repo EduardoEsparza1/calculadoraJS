@@ -1,5 +1,6 @@
 <% response.write("Hola mundo pitero")%>
 
+<% response.write("Esto es una prueba")%>
 <%response.write("Ella no te ama 2023")%>
 
 <%response.write("Necesitas una novia :v")%>
