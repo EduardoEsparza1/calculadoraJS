@@ -42,3 +42,4 @@ function calculate() {
     }
 }
 
+alert("rama10")
